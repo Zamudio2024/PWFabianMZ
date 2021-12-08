@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor{
+  background: blue;
+  width: 1450px;
+  height: auto;
+  padding: 10px 0px 10px 0px;
+}
+.barra{
+  background: red;
+  width: 1430;
+  height: 100px;
+  margin: 0px 10px 10px 10px;
+}
+.cajita1{
+  background: green;
+  width: 1430;
+  height: 350px;
+  margin: 0px 10px 10px 10px;
+}
+.cajita2{
+  background: green;
+  width: 1430;
+  height: 350px;
+  margin: 0px 10px 0px 10px;
+}
+.cajita3{
+  background: green;
+  width: 1430;
+  height: 350px;
+  margin: 10px 10px 0px 10px;
+}
