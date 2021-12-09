@@ -4,7 +4,7 @@
 }
 
 .contenedor{
-  background: blue;
+  background: black;
   width: 1650px;
   height: auto;
   padding: 10px 0px 10px 0px;
@@ -48,7 +48,7 @@ nav{
   background: lightblue;
   float: left;
   padding-top: 35px;
-  padding-left: 80px;
+  padding-left: 50px;
   box-sizing: border-box;
 }
 
@@ -93,7 +93,6 @@ div#cajita3{
   width: 815px;
   height: 1000px;
   float: left;
-
 }
 div#cajita4{
   background-color: pink;
@@ -118,4 +117,18 @@ div#cajita3 h1{
 }
 div#cajita3 p{
   font-size: 20px;
+}
+div#cajita6{
+  background: yellow;
+  width: 815px;
+  height: 1000px;
+  float: left;
+  padding-left: 49.5px;
+  box-sizing: border-box;
+}
+.Imagen{
+  background-color: white;
+  width: 200px;
+  height: 160px;
+  margin: 18px;
 }

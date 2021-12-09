@@ -48,7 +48,7 @@ nav{
   background: lightblue;
   float: left;
   padding-top: 35px;
-  padding-left: 80px;
+  padding-left: 50px;
   box-sizing: border-box;
 }
 
@@ -73,7 +73,7 @@ div#cajita1{
   width: 1630px;
   height: 100px;
   margin-left: 10px;
-  padding: 10px;
+  padding: 5px;
   box-sizing: border-box;
 }
 div#cajita1 h1{
