@@ -71,13 +71,49 @@ nav ul li a:hover{
 div#cajita1{
   background: green;
   width: 1630px;
-  height: 1000px;
+  height: 100px;
   margin-left: 10px;
+  padding: 2px;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: cursive;
+  font-size: 30px;
+}
+div#cajita2{
+  background: green;
+  width: 1630px;
+  height: 1000px;
+  margin: 10px 10px 0px 10px;
+  box-sizing: border-box;
+
+
+}
+div#cajita3{
+  background-color: yellow;
+  width: 815px;
+  height: 1000px;
+  float: left;
+
+}
+div#cajita4{
+  background-color: pink;
+  width: 407.5px;
+  height: 1000px;
+  float: left;
   padding: 10px;
   box-sizing: border-box;
 }
-div#cajita1 h1{
-  text-align: center;
-  font-family: cursive;
-  font-size: 60px;
+div#cajita5{
+  background-color: lightblue;
+  width: 407.5px;
+  height: 1000px;
+  float: left;
+  padding: 10px;
+  box-sizing: border-box;
+}
+div#cajita3 h1{
+  font-size: 30px;
+}
+div#cajita3 p{
+  font-size: 20px;
 }

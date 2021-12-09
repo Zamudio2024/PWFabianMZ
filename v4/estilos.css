@@ -4,7 +4,7 @@
 }
 
 .contenedor{
-  background: blue;
+  background: black;
   width: 1650px;
   height: auto;
   padding: 10px 0px 10px 0px;
@@ -17,7 +17,7 @@
   margin: 0px 10px 10px 10px;
 }
 .restaurante{
-  background: lightgreen;
+  background: #B90404;
   width: 765px;
   height: 100px;
   float: left;
@@ -27,14 +27,14 @@
 }
 .restaurante a{
   text-decoration: none;
-  color: white;
+  color: black;
   font-size: 50px;
   letter-spacing: 2px;
   font-family: cursive;
 
 }
 .restaurante a:hover{
-  color: red;
+  color: white;
   text-decoration: underline;
 }
 .img1{
@@ -45,7 +45,7 @@
 nav{
   width: 765px;
   height: 100px;
-  background: lightblue;
+  background: #B90404;
   float: left;
   padding-top: 35px;
   padding-left: 80px;
@@ -70,7 +70,7 @@ nav ul li a:hover{
 }
 
 div#Menú{
-  background: green;
+  background: #EE4D05;
   width: 1630;
   height: 350px;
   margin: 0px 10px 0px 10px;
@@ -81,7 +81,7 @@ div#Menú{
 div#descripcion{
   width: 650px;
   height: 300px;
-  background: green;
+  background: #EE4D05#EE4D05#EE4D05;
   margin: 10px;
   display: inline-block;
   float: left;
@@ -101,7 +101,7 @@ div#descripcion p{
 div#cuadro1{
   width: 250px;
   height: 300px;
-  background: lightblue;
+  background: #B90404;
   margin: 10px;
   display: inline-block;
   margin-left: 30px;
@@ -109,7 +109,7 @@ div#cuadro1{
   box-sizing: border-box;
 }
 div#imagen1{
-  background: white;
+  background: #B90404;
   width: 250px;
   height:250px;
   display: flex;
@@ -120,7 +120,7 @@ div#imagen1{
 div#cuadro2{
   width: 250px;
   height: 300px;
-  background: lightblue;
+  background: #B90404;
   margin: 10px;
   display: inline-block;
   margin-left: 30px;
@@ -128,7 +128,7 @@ div#cuadro2{
   box-sizing: border-box;
 }
 div#imagen2{
-  background: white;
+  background: #B90404;
   width: 250px;
   height:250px;
   display: flex;
@@ -139,7 +139,7 @@ div#imagen2{
 div#cuadro3{
   width: 250px;
   height: 300px;
-  background: lightblue;
+  background: #B90404;
   margin: 10px;
   display: inline-block;
   margin-left: 30px;
@@ -147,7 +147,7 @@ div#cuadro3{
   box-sizing: border-box;
 }
 div#imagen3{
-  background: white;
+  background: #B90404;
   width: 250px;
   height:250px;
   display: flex;
@@ -174,7 +174,7 @@ table tr td p{
 
 }
 div#Promociones{
-  background: green;
+  background: #EE4D05;
   width: 1430;
   height: 350px;
   margin: 10px 10px 0px 10px;
@@ -185,7 +185,7 @@ div#Promociones{
 div#descripcion2{
   width: 650px;
   height: 300px;
-  background: green;
+  background: #EE4D05;
   margin: 10px;
   display: inline-block;
   float: left;
@@ -206,7 +206,7 @@ div#descripcion2 p{
 div#cuadro4{
   width: 370px;
   height: 300px;
-  background: lightblue;
+  background: #B90404;
   margin: 10px;
   display: inline-block;
   margin-left: 30px;
@@ -214,7 +214,7 @@ div#cuadro4{
   box-sizing: border-box;
 }
 div#imagen4{
-  background: white;
+  background: #B90404;
   width: 370px;
   height:250px;
   display: flex;
@@ -225,7 +225,7 @@ div#imagen4{
 div#cuadro5{
   width: 370px;
   height: 300px;
-  background: lightblue;
+  background: #B90404;
   margin: 10px;
   display: inline-block;
   margin-left: 104px;
@@ -233,7 +233,7 @@ div#cuadro5{
   box-sizing: border-box;
 }
 div#imagen5{
-  background: white;
+  background: #B90404;
   width: 370px;
   height:250px;
   display: flex;
@@ -252,7 +252,7 @@ div#imagen5{
 
 
 div#Información{
-  background: green;
+  background: #EE4D05;
   width: 1630;
   height: 350px;
   margin: 10px 10px 0px 10px;
@@ -264,7 +264,7 @@ div#descripcion3
 {
   width: 650px;
   height: 300px;
-  background: green;
+  background: #EE4D05;
   margin: 10px;
   display: inline-block;
   float: left;
@@ -285,7 +285,7 @@ div#descripcion3 p{
 div#cuadro6{
   width: 230px;
   height: 310px;
-  background: lightblue;
+  background: #B90404;
   margin: 10px;
   display: inline-block;
   margin-left: 30px;
@@ -293,7 +293,7 @@ div#cuadro6{
   box-sizing: border-box;
 }
 div#imagen6{
-  background: white;
+  background: #B90404;
   width: 230px;
   height: 310px;
   display: flex;
@@ -306,7 +306,7 @@ div#imagen6{
 div#cuadro7{
   width: 370px;
   height: 300px;
-  background: lightblue;
+  background: #B90404;
   margin: 10px;
   display: inline-block;
   margin-left: 50px;
@@ -314,7 +314,7 @@ div#cuadro7{
   box-sizing: border-box;
 }
 div#imagen7{
-  background: white;
+  background: #B90404;
   width: 370px;
   height:300px;
   display: flex;
@@ -338,7 +338,7 @@ div#datos{
   box-sizing: border-box;
 }
 div#bienvenida{
-  background: Lightblue;
+  background: #B90404;
   width: 815px;
   height: 100px;
   float: left;
@@ -347,7 +347,7 @@ div#bienvenida{
   font-variant: small-caps;
 }
 div#alumno{
-  background: Lightpink;
+  background: #B90404;
   width: 815px;
   height: 100px;
   float: left;
