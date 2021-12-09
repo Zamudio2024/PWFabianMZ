@@ -4,7 +4,7 @@
 }
 
 .contenedor{
-  background: blue;
+  background: black;
   width: 1650px;
   height: auto;
   padding: 10px 0px 10px 0px;
@@ -17,7 +17,7 @@
   margin: 0px 10px 10px 10px;
 }
 .restaurante{
-  background: lightgreen;
+  background: #B90404;
   width: 765px;
   height: 100px;
   float: left;
@@ -27,14 +27,14 @@
 }
 .restaurante a{
   text-decoration: none;
-  color: white;
+  color: black;
   font-size: 50px;
   letter-spacing: 2px;
   font-family: cursive;
 
 }
 .restaurante a:hover{
-  color: red;
+  color: white;
   text-decoration: underline;
 }
 .img1{
@@ -45,7 +45,7 @@
 nav{
   width: 765px;
   height: 100px;
-  background: lightblue;
+  background: #B90404;
   float: left;
   padding-top: 35px;
   padding-left: 50px;
@@ -65,11 +65,11 @@ nav ul li a{
   font-family: cursive;
 }
 nav ul li a:hover{
-  color: red;
+  color: white;
   text-decoration: overline underline;
 }
 div#cajita1{
-  background: green;
+  background: #EE4D05;
   width: 1630px;
   height: 100px;
   margin-left: 10px;
@@ -80,4 +80,22 @@ div#cajita1 h1{
   text-align: center;
   font-family: cursive;
   font-size: 60px;
+}
+div#cajita2{
+  background: #B90404;
+  width: 1630px;
+  height: 1000px;
+  margin: 10px 10px 0px 10px;
+  padding-top: 30px;
+  padding-left: 40px;
+  box-sizing: border-box;
+}
+.Imagen{
+  background-color: grey;
+  width: 750px;
+  height: 450px;
+  margin: 5px;
+  border-style: solid;
+  box-shadow: 10px;
+
 }
