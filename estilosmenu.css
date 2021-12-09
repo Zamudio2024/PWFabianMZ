@@ -100,7 +100,8 @@ div#cajita4{
   width: 407.5px;
   height: 1000px;
   float: left;
-  padding: 10px;
+  padding-top: 30px;
+  padding-left: 20px;
   box-sizing: border-box;
 }
 div#cajita5{
@@ -108,7 +109,8 @@ div#cajita5{
   width: 407.5px;
   height: 1000px;
   float: left;
-  padding: 10px;
+  padding-top: 30px;
+  padding-left: 20px;
   box-sizing: border-box;
 }
 div#cajita3 h1{

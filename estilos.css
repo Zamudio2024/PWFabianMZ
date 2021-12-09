@@ -48,7 +48,7 @@ nav{
   background: #B90404;
   float: left;
   padding-top: 35px;
-  padding-left: 80px;
+  padding-left: 50px;
   box-sizing: border-box;
 }
 
@@ -65,7 +65,7 @@ nav ul li a{
   font-family: cursive;
 }
 nav ul li a:hover{
-  color: red;
+  color: white;
   text-decoration: overline underline;
 }
 
