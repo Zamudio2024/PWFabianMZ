@@ -86,17 +86,22 @@ div#cajita2{
   width: 1630px;
   height: auto;
   margin: 10px 10px 0px 10px;
-  padding-top: 30px;
-  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   box-sizing: border-box;
   text-align: center;
+  font-size: 30px;
+
+
 }
-.Imagen{
+.Imagenes{
   background-color: grey;
-  width: 745px;
-  height: 445px;
-  margin: 10px;
+  width: 350px;
+  height: 250px;
+  margin: 5px;
   border-style: solid;
-  box-shadow: 10px;
+  border-width: 6px;
+  margin: 10px;
+  box-sizing: border-box;
 
 }

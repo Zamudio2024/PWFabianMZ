@@ -1,0 +1,379 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor{
+  background: black;
+  width: 1650px;
+  height: auto;
+  padding: 10px 0px 10px 0px;
+}
+
+.barra{
+  background: red;
+  width: 1630;
+  height: 100px;
+  margin: 0px 10px 10px 10px;
+}
+.restaurante{
+  background: #B90404;
+  width: 765px;
+  height: 100px;
+  float: left;
+  padding-top: 15px;
+  padding-left: 130px;
+  box-sizing: border-box;
+}
+.restaurante a{
+  text-decoration: none;
+  color: black;
+  font-size: 50px;
+  letter-spacing: 2px;
+  font-family: cursive;
+
+}
+.restaurante a:hover{
+  color: white;
+  text-decoration: underline;
+}
+.img1{
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+nav{
+  width: 765px;
+  height: 100px;
+  background: #B90404;
+  float: left;
+  padding-top: 35px;
+  padding-left: 50px;
+  box-sizing: border-box;
+}
+
+nav ul li{
+  display: inline;
+  text-decoration: none;
+  font-size: 25px;
+  margin-right: 50px;
+  letter-spacing: 2px;
+}
+nav ul li a{
+  text-decoration: none;
+  color: black;
+  font-family: cursive;
+}
+nav ul li a:hover{
+  color: white;
+  text-decoration: overline underline;
+}
+
+div#Menú{
+  background: #EE4D05;
+  width: 1630;
+  height: 350px;
+  margin: 0px 10px 0px 10px;
+  padding-top: 10px;
+  padding-left: 22px;
+  box-sizing: border-box;
+}
+div#descripcion{
+  width: 650px;
+  height: 300px;
+  background: #EE4D05;
+  margin: 10px;
+  display: inline-block;
+  float: left;
+}
+div#descripcion h1{
+  text-align: center;
+  font-family: serif;
+  letter-spacing: 2px;
+  font-size: 50px;
+  font-variant: small-caps;
+  font-style: italic;
+}
+div#descripcion p{
+  text-align: justify;
+  font-size: 34px;
+}
+div#cuadro1{
+  width: 254px;
+  height: 300px;
+  background: #B90404;
+  margin: 10px;
+  display: inline-block;
+  margin-left: 26px;
+  margin-right: 26px;
+  box-sizing: border-box;
+  border-style:solid;
+}
+div#imagen1{
+  background: #B90404;
+  width: 250px;
+  height:250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  border-style: solid;
+
+}
+div#cuadro2{
+  width: 254px;
+  height: 300px;
+  background: #B90404;
+  margin: 10px;
+  display: inline-block;
+  margin-left: 26px;
+  margin-right: 28px;
+  box-sizing: border-box;
+  border-style:solid;
+}
+div#imagen2{
+  background: #B90404;
+  width: 250px;
+  height:250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  border-style:solid;
+  border-spacing: 0px;
+}
+div#cuadro3{
+  width: 254px;
+  height: 300px;
+  background: #B90404;
+  margin: 10px;
+  display: inline-block;
+  margin-left: 26px;
+  margin-right: 30px;
+  box-sizing: border-box;
+  border-style:solid;
+}
+div#imagen3{
+  background: #B90404;
+  width: 250px;
+  height:250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  border-style:solid;
+
+}
+.fotos{
+  width: 250px;
+  height: 250px;
+  box-sizing: border-box;
+}
+.fotos:hover{
+  width: 246px;
+  height: 246px;
+  box-sizing: border-box;
+}
+
+table tr td p{
+
+  margin: 0px 0px 0px 64px;
+  font-size: 35px;
+  font-style: oblique;
+  font-variant: small-caps;
+
+}
+div#Promociones{
+  background: #EE4D05;
+  width: 1430;
+  height: 350px;
+  margin: 10px 10px 0px 10px;
+  padding-left: 22px;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+div#descripcion2{
+  width: 650px;
+  height: 300px;
+  background: #EE4D05;
+  margin: 10px;
+  display: inline-block;
+  float: left;
+}
+div#descripcion2 h1{
+  text-align: center;
+  font-family: serif;
+  letter-spacing: 2px;
+  font-size: 50px;
+  font-variant: small-caps;
+  font-style: italic;
+}
+div#descripcion2 p{
+  text-align: justify;
+  font-size: 34px;
+}
+
+div#cuadro4{
+  width: 373px;
+  height: 300px;
+  background: #B90404;
+  margin: 10px;
+  display: inline-block;
+  margin-left: 26px;
+  margin-right: 28px;
+  box-sizing: border-box;
+  border-style: solid;
+}
+div#imagen4{
+  background: #B90404;
+  width: 370px;
+  height:250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  border-style:solid;
+}
+div#cuadro5{
+  width: 373px;
+  height: 300px;
+  background: #B90404;
+  margin: 10px;
+  display: inline-block;
+  margin-left: 100px;
+  margin-right: 30px;
+  box-sizing: border-box;
+  border-style:solid;
+}
+div#imagen5{
+  background: #B90404;
+  width: 370px;
+  height:250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  border-style:solid;
+}
+.fotos2{
+  width: 370px;
+  height: 250px;
+
+
+}
+.fotos2:hover{
+  width: 366px;
+  height: 246px;
+}
+
+
+div#Información{
+  background: #EE4D05;
+  width: 1630;
+  height: 350px;
+  margin: 10px 10px 0px 10px;
+  padding-top: 10px;
+  padding-left: 22px;
+  box-sizing: border-box;
+}
+div#descripcion3
+{
+  width: 650px;
+  height: 300px;
+  background: #EE4D05;
+  margin: 10px;
+  display: inline-block;
+  float: left;
+}
+div#descripcion3
+ h1{
+  text-align: center;
+  font-family: serif;
+  letter-spacing: 2px;
+  font-size: 50px;
+  font-variant: small-caps;
+  font-style: italic;
+}
+div#descripcion3 p{
+  text-align: justify;
+  font-size: 32px;
+}
+div#cuadro6{
+  width: 230px;
+  height: 310px;
+  background: #B90404;
+  margin: 10px;
+  display: inline-block;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-sizing: border-box;
+}
+div#imagen6{
+  background: #B90404;
+  width: 230px;
+  height: 310px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+
+div#cuadro7{
+  width: 370px;
+  height: 300px;
+  background: #B90404;
+  margin: 10px;
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 30px;
+  box-sizing: border-box;
+}
+div#imagen7{
+  background: #B90404;
+  width: 370px;
+  height:300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+
+}
+.fotos3{
+  width: 230px;
+  height: 310px;
+
+}
+.fotos4{
+  width: 400px;
+  height: 310px;
+  border-style: solid; 
+}
+div#datos{
+  background: green;
+  width: 1630;
+  height: 100px;
+  margin: 10px 10px 0px 10px;
+  box-sizing: border-box;
+}
+div#bienvenida{
+  background: #B90404;
+  width: 815px;
+  height: 100px;
+  float: left;
+  text-align: center;
+  font-size: 80px;
+  font-variant: small-caps;
+}
+div#alumno{
+  background: #B90404;
+  width: 815px;
+  height: 100px;
+  float: left;
+  text-align: right;
+  font-size: 40px;
+  border-left-style: solid;
+  border-left-width: 10px;
+  box-sizing: border-box;
+
+}
